@@ -4,7 +4,7 @@
     "MaxUses": 100,
     "CurrentUses": 0,
     "Rewards": [
-      { "Type": "Coins", "Amount": 100 }
+      { "Type": "Money", "Amount": 1 }
     ]
   }
 }
