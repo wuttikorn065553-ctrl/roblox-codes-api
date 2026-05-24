@@ -1,0 +1,10 @@
+{
+  "FREE100": {
+    "ExpiryDate": "2026-12-31",
+    "MaxUses": 100,
+    "CurrentUses": 0,
+    "Rewards": [
+      { "Type": "Coins", "Amount": 100 }
+    ]
+  }
+}
